@@ -44,9 +44,3 @@ Currently working on research-oriented projects involving deep learning, medical
 - Huawei HCIA-AI V4.0
 - Huawei HCCDP-AI
 - NVIDIA Fundamentals of Deep Learning
-
-### 📫 Contact
-
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
-- GitHub: [mohammed-hakim](https://github.com/mohammed-hakim)
